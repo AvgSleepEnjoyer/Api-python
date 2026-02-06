@@ -1,6 +1,6 @@
 # Api-python
-Proyecto Final Programacion Basica
+Proyecto Final de Programación Básica
 
-En este proyecto se diseñó y probó una API que, a travez de una serie de peticiones se guardaba cierta informacion proporcionada (anime, vistas, ranking, titulos, sinopsis, casas de animacion, licencias, estudios, ect) por el usuario y se genereba un excel y graficas para explicar su contenido.
+En este proyecto se diseñó y probó una API que, a través de una serie de peticiones, guardaba cierta información proporcionada por el usuario (anime, vistas, ranking, títulos, sinopsis, casas de animación, licencias, estudios, etc.) y se generaba un archivo Excel y gráficas para explicar su contenido.
 
-Se usaron diveras librerias como numpy, matplotlib, pandas, etc. para la interpretacion matematica y visual, y por otro lado las escenciales para hacer peticiones (requests) y guardarlas en un json.
+Se usaron diversas librerías como NumPy, Matplotlib, Pandas, etc. para la interpretación matemática y visual, y por otro lado las esenciales para hacer peticiones (requests) y guardarlas en un archivo JSON.
